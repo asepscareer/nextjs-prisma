@@ -13,7 +13,7 @@ tags:
 This example is a [NextJS](https://nextjs.org/) todo app that uses
 [Prisma](https://www.prisma.io/) to store todos in Postgres.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/HRZqTF)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nextjs?referralCode=asepsp&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## ✨ Features
 
